@@ -4,8 +4,8 @@ import requests
 
 # put your keys in the header
 headers = {
-    "app_id": "1de26275",
-    "app_key": "d7b839546d091b40a175af824f6c971f"
+    "app_id": "XXXXXXX",
+    "app_key": "XXXXXXXXXXXXXXXXXXXXX"
 }
 
 payload = '{"image":"https://media.kairos.com/liz.jpg"}'
