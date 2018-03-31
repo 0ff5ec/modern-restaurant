@@ -3,7 +3,7 @@ Getting the Access Token:
 
 To be able to extract data from Facebook using a python code you need to register as a developer on Facebook and then have an access token. Here are the steps for it.
 -------------------------------------------------------------------------------
-1. Go to link developers.facebook.com, create an account there.
+1. Go to link <a>developers.facebook.com</a>, create an account there.
 2. Go to link developers.facebook.com/tools/explorer.
 3. Go to “My apps” drop down in the top right corner and select “add a new app”. Choose a display name and a category and then “Create App ID”.
 4. Again get back to the same link developers.facebook.com/tools/explorer. You will see “Graph API Explorer” below “My Apps” in the top right corner. From “Graph API Explorer” drop down, select your app.
